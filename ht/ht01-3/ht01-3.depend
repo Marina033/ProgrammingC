@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537819270 source:c:\users\oleg\yandexdisk\Учёба\3 сем\Прак\ht\ht01-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
