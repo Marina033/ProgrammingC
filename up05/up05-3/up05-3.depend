@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539530312 source:c:\users\oleg\yandexdisk\Учёба\3 сем\Прак\up05\up05-3\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

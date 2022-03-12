@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61013458
+eax=0028DD58 ebx=00000000 ecx=80040000 edx=611ECA4B esi=612CC3AA edi=0028CD84
+ebp=0028CC78 esp=0028CBA0 program=C:\Users\Oleg\YandexDisk\Учёба\3 сем\Прак\up06\up06-4\prog.exe, pid 1144, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028CC78  61013458 (00000002, 0028CC9C, 800000D0, 61009DE8)
+0028CD28  61009E4A (00000000, 0028CD84, 61008DE0, 00000000)
+End of stack trace
