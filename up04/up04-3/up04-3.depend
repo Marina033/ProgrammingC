@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1538927536 source:c:\users\oleg\yandexdisk\Учёба\3 сем\Прак\up04\up04-3\main.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	"function.c"
+
+1538844939 c:\users\oleg\yandexdisk\Учёба\3 сем\Прак\up04\up04-3\function.c
+	<stdlib.h>
+	<memory.h>
+	<stddef.h>
+	<stdint.h>
+
