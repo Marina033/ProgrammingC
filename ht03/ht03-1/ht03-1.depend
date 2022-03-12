@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540740151 source:c:\users\oleg\yandexdisk\Учёба\3 сем\Прак\ht03\ht03-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+
